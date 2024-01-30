@@ -16,8 +16,13 @@ El repositorio incluye dos scripts principales escritos en Python:
 
 ## Uso e Instalación
 
+<<<<<<< HEAD
 
 Modificación desde la branch "master"
+=======
+Ultima modificación a Violeta
+
+>>>>>>> violeta
 ## Contribuciones y Soporte
 
 ---
