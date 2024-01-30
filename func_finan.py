@@ -176,6 +176,7 @@ def precio_opcion_europea_sigma(tipo_opcion: int, S:float, K:float, r:float, T:f
     return valores_opcion[0, 0]
 
 def precio_opcion_americana_sigma(S:float, K:float, r:float, T:float, n:int, tipo_nombre:float, sigma: float)->float:
+    
 
     """
     Esta es la funcion que pemite calcular el valor de una opcion americana, de acuerdo con la soicitud del usuario.
